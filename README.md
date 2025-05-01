@@ -12,9 +12,9 @@
 - open 'main.py' with notepad
 - change the code where it says to, like the spam message
 - save it
-- install discord.py by running 'pip install -U discord.py
+- install discord.py by running 'pip install -U discord.py'
 - change he directory to where your bots files are at and run 'main.py' to start it
-- in a server with your bot added, run ,start for the bot to delete all text channels and spam messages, and ,wave to ban all members without perms
+- in a server with your bot added, run ',start' for the bot to delete all text channels and spam messages, and ,wave to ban all members without perms
 
 # DISCLAIMER
 - this can destroy servers
